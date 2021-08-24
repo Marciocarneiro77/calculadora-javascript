@@ -1,0 +1,16 @@
+body{
+    background-image: url("../img/fundo.png");
+    font-family: 'Roboto';
+    background-size: 100vh;
+    background-position:center bottom;
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-color: #000;
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+h1{
+    color: red;
+}
